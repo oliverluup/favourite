@@ -1,1 +1,2 @@
-favourite.tak17luup.itmajakas.ee
+favourite.tak17luup.itmajakas.ee/api.php
+
